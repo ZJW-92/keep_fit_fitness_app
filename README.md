@@ -2,6 +2,8 @@
 
 A fitness training application that help you browse more than one thousand exercises with examples, similiar exercises and even much more. You can choose specific muscle groups to workout in the gym without a coach. 
 
+## View demo at: 
+
 ## Tech stack
 - React.js
 - React-icons
