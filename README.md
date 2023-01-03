@@ -1,4 +1,4 @@
-# Keep Fit Fitness 
+#  Demo at 👉 [Keep Fit Fitness]() 
 
 A fitness training application that help you browse more than one thousand exercises with examples, similiar exercises and even much more. You can choose specific muscle groups to workout in the gym without a coach. 
 
@@ -17,4 +17,6 @@ Log in or register and subscribe the exercisedb api 👉
 ## Setup
 
 Run `npm install --legacy-peer-deps` to install all dependencies. 
+
+Run `npm i && npm start` to start the app.
 
