@@ -11,8 +11,10 @@ A fitness training application that help you browse more than one thousand exerc
 - Rapid API
 
 ## [Rapid API](https://rapidapi.com/hub)
-Log in or register and subscribe the exercisedb api 👉
-[Exercisedb](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
+Log in or register and subscribe the exercisedb api 👇
+
+[Exercisedb:](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
+The database API containing 1300+ exercises with body part, target muscle equipment necessary, and a form and follow-through animation.
 
 
 ## Setup
