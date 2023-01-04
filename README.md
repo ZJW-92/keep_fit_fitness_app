@@ -8,6 +8,7 @@ A fitness training application that help you browse more than one thousand exerc
 ## Tech stack
 - React.js
 - React-icons
+- Material-UI
 - Rapid API
 
 ## [Rapid API](https://rapidapi.com/hub)
