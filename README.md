@@ -1,7 +1,6 @@
 # View Demo at 👉 [KeepFit Fitness](https://keepfit-fitness.netlify.app/) 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/52c54983-4cb1-4ab2-81eb-9fedc6219775/deploy-status)](https://app.netlify.com/sites/keepfit-fitness/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e380e25-57ff-441b-b623-160a980ff7e0/deploy-status)](https://app.netlify.com/sites/keepfit-fitness/deploys)
 
 A fitness training application that help you browse more than one thousand exercises with examples, similiar exercises and even much more. You can choose specific muscle groups to workout in the gym without a coach. 
 
