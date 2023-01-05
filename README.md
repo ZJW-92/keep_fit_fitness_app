@@ -24,3 +24,5 @@ Run `npm install --legacy-peer-deps` to install all dependencies.
 
 Run `npm i && npm start` to start the app.
 
+## Issue
+The landing page may be blank due to the X-RapidAPI-Key reach its monthly limit. Change another keys in the fetchData.js file.
