@@ -19,7 +19,7 @@ The database API containing 1300+ exercises with body part, target muscle equipm
 
 ## Setup
 
-Run `npm install --legacy-peer-deps` to install all dependencies. 
+Run `npm install --legacy-peer-deps && yarn add react-icons` to install all dependencies. 
 
 Run `npm i && npm start` to start the app.
 
