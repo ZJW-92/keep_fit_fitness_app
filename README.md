@@ -1,4 +1,4 @@
-# View Demo at 👉 [KeepFit Fitness](https://keepfit-fitness.netlify.app/) 
+# Demo 👉 [KeepFit Fitness](https://keepfit-fitness.netlify.app/) 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e380e25-57ff-441b-b623-160a980ff7e0/deploy-status)](https://app.netlify.com/sites/keepfit-fitness/deploys)
 
