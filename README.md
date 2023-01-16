@@ -5,10 +5,10 @@
 A fitness training application that help you browse more than one thousand exercises with examples, similiar exercises and even much more. You can choose specific muscle groups to workout in the gym without a coach. 
 
 ## Tech stack
-- ***React.js***
-- ***React-icons***
-- ***Material-UI***
-- ***Rapid API***
+- ***React.js***: A JavaScript library for building user interfaces
+- ***React-icons*** : A library that helps you add icons (from all different icon libraries) to react apps
+- ***Material-UI*** : An open-source React component library that implements Google's Material Design
+- ***[Rapid API](https://rapidapi.com/hub)***
 
 ## [Rapid API](https://rapidapi.com/hub)
 Log in or register and subscribe the exercisedb api 👇
